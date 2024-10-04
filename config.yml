@@ -55,9 +55,9 @@ params:
           enabled: true
           title: Federico Rodari
           subtitle: "I am a PhD Students in Economics at Boston College. My research interest is Empirical Industrial Organization."
-          imageUrl: "header.JPG"
+          imageUrl: "header.jpeg"
           imageWidth: 160
-          imageHeight: 160
+          imageHeight: 200
           imageTitle: Federico Rodari
           buttons:
             - name: Papers
@@ -103,7 +103,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Federico Rodari"
       icon: favicon.ico
       iconHeight: 18
 
