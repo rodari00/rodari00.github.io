@@ -14,8 +14,8 @@ menu:
         - name: Books
           url: books/
           weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
         - name: Courses
           url: courses/
@@ -23,9 +23,9 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        #- name: Blog
+        #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #  weight: 6
 
 params:
     description: "I am a PhD Students in Economics at Boston College. My research interest is Empirical Industrial Organization."
@@ -60,8 +60,8 @@ params:
           imageHeight: 200
           imageTitle: Federico Rodari
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Research
+              url: research/
             - name: Courses
               url: courses/
             - name: Data
@@ -72,30 +72,30 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            #- name: Blog
+            #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:rodari@bc.edu
+        #- name: Zoom
+        #  url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        #- name: Google Scholar
+        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://github.com/rodari00
+        #- name: Substack
+        #  url: https://pmichaillat.substack.com
+        #- name: YouTube
+        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://x.com/federico_rodari
 
     assets:
         disableScrollBarStyle: true
