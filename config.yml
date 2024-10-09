@@ -30,7 +30,7 @@ menu:
 params:
     description: "I am a PhD Students in Economics at Boston College. My research interest is Empirical Industrial Organization."
     author: Federico Rodari
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-X3HRCTF0MH"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
