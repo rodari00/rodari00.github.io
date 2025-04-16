@@ -2,150 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Federico Rodari</title>
-    <link>http://localhost:51670/tags/</link>
+    <link>https://federicorodari.com/tags/</link>
     <description>Recent content in Tags on Federico Rodari</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:51670/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicorodari.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D43</title>
-      <link>http://localhost:51670/tags/d43/</link>
+      <link>https://federicorodari.com/tags/d43/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/d43/</guid>
+      <guid>https://federicorodari.com/tags/d43/</guid>
       <description></description>
     </item>
     <item>
       <title>F10</title>
-      <link>http://localhost:51670/tags/f10/</link>
+      <link>https://federicorodari.com/tags/f10/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/f10/</guid>
+      <guid>https://federicorodari.com/tags/f10/</guid>
       <description></description>
     </item>
     <item>
       <title>F12</title>
-      <link>http://localhost:51670/tags/f12/</link>
+      <link>https://federicorodari.com/tags/f12/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/f12/</guid>
+      <guid>https://federicorodari.com/tags/f12/</guid>
       <description></description>
     </item>
     <item>
       <title>F14</title>
-      <link>http://localhost:51670/tags/f14/</link>
+      <link>https://federicorodari.com/tags/f14/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/f14/</guid>
+      <guid>https://federicorodari.com/tags/f14/</guid>
       <description></description>
     </item>
     <item>
       <title>R4</title>
-      <link>http://localhost:51670/tags/r4/</link>
+      <link>https://federicorodari.com/tags/r4/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/r4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dataset</title>
-      <link>http://localhost:51670/tags/dataset/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/dataset/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>French</title>
-      <link>http://localhost:51670/tags/french/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/french/</guid>
+      <guid>https://federicorodari.com/tags/r4/</guid>
       <description></description>
     </item>
     <item>
       <title>Irregular Verbs</title>
-      <link>http://localhost:51670/tags/irregular-verbs/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/irregular-verbs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Italian</title>
-      <link>http://localhost:51670/tags/italian/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/italian/</guid>
+      <link>https://federicorodari.com/tags/irregular-verbs/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://federicorodari.com/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Philology</title>
-      <link>http://localhost:51670/tags/philology/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/philology/</guid>
+      <link>https://federicorodari.com/tags/philology/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://federicorodari.com/tags/philology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portuguese</title>
-      <link>http://localhost:51670/tags/portuguese/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/portuguese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:51670/tags/python/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/python/</guid>
+      <link>https://federicorodari.com/tags/portuguese/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://federicorodari.com/tags/portuguese/</guid>
       <description></description>
     </item>
     <item>
       <title>Romance Languages</title>
-      <link>http://localhost:51670/tags/romance-languages/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/romance-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simulations</title>
-      <link>http://localhost:51670/tags/simulations/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/simulations/</guid>
+      <link>https://federicorodari.com/tags/romance-languages/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://federicorodari.com/tags/romance-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Spanish</title>
-      <link>http://localhost:51670/tags/spanish/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/spanish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portugese</title>
-      <link>http://localhost:51670/tags/portugese/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/portugese/</guid>
+      <link>https://federicorodari.com/tags/spanish/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://federicorodari.com/tags/spanish/</guid>
       <description></description>
     </item>
     <item>
       <title>Celtic Languages</title>
-      <link>http://localhost:51670/tags/celtic-languages/</link>
+      <link>https://federicorodari.com/tags/celtic-languages/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/celtic-languages/</guid>
+      <guid>https://federicorodari.com/tags/celtic-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Irish</title>
-      <link>http://localhost:51670/tags/irish/</link>
+      <link>https://federicorodari.com/tags/irish/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/irish/</guid>
+      <guid>https://federicorodari.com/tags/irish/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Modernization</title>
-      <link>http://localhost:51670/tags/language-modernization/</link>
+      <link>https://federicorodari.com/tags/language-modernization/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/language-modernization/</guid>
+      <guid>https://federicorodari.com/tags/language-modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Profanity</title>
-      <link>http://localhost:51670/tags/profanity/</link>
+      <link>https://federicorodari.com/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51670/tags/profanity/</guid>
+      <guid>https://federicorodari.com/tags/profanity/</guid>
       <description></description>
     </item>
   </channel>
