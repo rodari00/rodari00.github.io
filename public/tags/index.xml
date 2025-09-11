@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Federico Rodari</title>
-    <link>https://federicorodari.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Federico Rodari</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://federicorodari.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D43</title>
-      <link>https://federicorodari.com/tags/d43/</link>
+      <link>http://localhost:1313/tags/d43/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/d43/</guid>
+      <guid>http://localhost:1313/tags/d43/</guid>
       <description></description>
     </item>
     <item>
       <title>F10</title>
-      <link>https://federicorodari.com/tags/f10/</link>
+      <link>http://localhost:1313/tags/f10/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/f10/</guid>
+      <guid>http://localhost:1313/tags/f10/</guid>
       <description></description>
     </item>
     <item>
       <title>F12</title>
-      <link>https://federicorodari.com/tags/f12/</link>
+      <link>http://localhost:1313/tags/f12/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/f12/</guid>
+      <guid>http://localhost:1313/tags/f12/</guid>
       <description></description>
     </item>
     <item>
       <title>F14</title>
-      <link>https://federicorodari.com/tags/f14/</link>
+      <link>http://localhost:1313/tags/f14/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/f14/</guid>
+      <guid>http://localhost:1313/tags/f14/</guid>
       <description></description>
     </item>
     <item>
       <title>R4</title>
-      <link>https://federicorodari.com/tags/r4/</link>
+      <link>http://localhost:1313/tags/r4/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/r4/</guid>
+      <guid>http://localhost:1313/tags/r4/</guid>
       <description></description>
     </item>
     <item>
       <title>Irregular Verbs</title>
-      <link>https://federicorodari.com/tags/irregular-verbs/</link>
+      <link>http://localhost:1313/tags/irregular-verbs/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/irregular-verbs/</guid>
+      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Philology</title>
-      <link>https://federicorodari.com/tags/philology/</link>
+      <link>http://localhost:1313/tags/philology/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/philology/</guid>
+      <guid>http://localhost:1313/tags/philology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portuguese</title>
-      <link>https://federicorodari.com/tags/portuguese/</link>
+      <link>http://localhost:1313/tags/portuguese/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/portuguese/</guid>
+      <guid>http://localhost:1313/tags/portuguese/</guid>
       <description></description>
     </item>
     <item>
       <title>Romance Languages</title>
-      <link>https://federicorodari.com/tags/romance-languages/</link>
+      <link>http://localhost:1313/tags/romance-languages/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/romance-languages/</guid>
+      <guid>http://localhost:1313/tags/romance-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Spanish</title>
-      <link>https://federicorodari.com/tags/spanish/</link>
+      <link>http://localhost:1313/tags/spanish/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/spanish/</guid>
+      <guid>http://localhost:1313/tags/spanish/</guid>
       <description></description>
     </item>
     <item>
       <title>Celtic Languages</title>
-      <link>https://federicorodari.com/tags/celtic-languages/</link>
+      <link>http://localhost:1313/tags/celtic-languages/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/celtic-languages/</guid>
+      <guid>http://localhost:1313/tags/celtic-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Irish</title>
-      <link>https://federicorodari.com/tags/irish/</link>
+      <link>http://localhost:1313/tags/irish/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/irish/</guid>
+      <guid>http://localhost:1313/tags/irish/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Modernization</title>
-      <link>https://federicorodari.com/tags/language-modernization/</link>
+      <link>http://localhost:1313/tags/language-modernization/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/language-modernization/</guid>
+      <guid>http://localhost:1313/tags/language-modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Profanity</title>
-      <link>https://federicorodari.com/tags/profanity/</link>
+      <link>http://localhost:1313/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://federicorodari.com/tags/profanity/</guid>
+      <guid>http://localhost:1313/tags/profanity/</guid>
       <description></description>
     </item>
   </channel>

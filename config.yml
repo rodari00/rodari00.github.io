@@ -29,7 +29,7 @@ menu:
         #  weight: 6
 
 params:
-    description: "I am a PhD Students in Economics at Boston College. My research interest is Empirical Industrial Organization."
+    description: "I am a Ph.D. student in Economics at Boston College. My research combines Empirical IO and Trade to study the international transportation sector."
     author: Federico Rodari
     googleAnalyticsID: "G-X3HRCTF0MH"
     DateFormat: "January 2006"
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Federico Rodari
-          subtitle: "I am a PhD Students in Economics at Boston College. My research interest is Empirical Industrial Organization."
+          subtitle: "I am a Ph.D. student in Economics at Boston College. My research combines Empirical IO and Trade to study the international transportation sector."
           imageUrl: "header.jpeg"
           imageWidth: 160
           imageHeight: 200
@@ -63,20 +63,20 @@ params:
           buttons:
             - name: Research
               url: research/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            #- name: Courses
+            #  url: courses/
+            #- name: Data
+            #  url: data/
+            #- name: Books
+            #  url: books/
+            #- name: Tags
+            #  url: tags/
+            #- name: Archive
+            #  url: archive/
             #- name: Blog
             #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
-    social:
+    socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
@@ -85,8 +85,8 @@ params:
         #  url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
+        #- name: Office Hours
+        # url: officehours/
         #- name: Google Scholar
         #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
