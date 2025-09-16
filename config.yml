@@ -29,7 +29,8 @@ menu:
         #  weight: 6
 
 params:
-    description: "I am a Ph.D. student in Economics at Boston College. My research combines Empirical IO and Trade to study the international transportation sector."
+    description: "Welcome to my website! I am an Ph.D. student in Economics at Boston College doing research on international transportation. In my work, I leverage tools from empirical industrial organization and international trade."
+    
     author: Federico Rodari
     googleAnalyticsID: "G-X3HRCTF0MH"
     DateFormat: "January 2006"
@@ -55,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Federico Rodari
-          subtitle: "I am a Ph.D. student in Economics at Boston College. My research combines Empirical IO and Trade to study the international transportation sector."
+          subtitle: "Welcome to my website! I am an Ph.D. student in Economics at Boston College doing research on international transportation. In my work, I leverage tools from empirical industrial organization and international trade."
           imageUrl: "header.jpeg"
           imageWidth: 160
           imageHeight: 200
